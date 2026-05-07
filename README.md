@@ -113,7 +113,8 @@ Complemento mi formación universitaria con aprendizaje constante a través de c
 ## 📜 Certificaciones
 
 - 🏅 **Sistemas de Gestión de Calidad** — ISO 9001
-- 🏅 **Seguridad y Calidad** — ISO/IEC 27001, documentación técnica, verificación de software
+- 🏅 **data analysis with python** — analisis de datos python
+- 🏅 **Seguridad y Calidad** — ISO/IEC 27001, competencias en Sistemas de Gestión de Seguridad de la Información y Protección de Datos Personales
 
 ---
 
